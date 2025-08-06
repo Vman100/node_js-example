@@ -20,7 +20,7 @@
     "eslint-plugin-promise": "^4.1.1"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
+    "eslint": "^9.32.0",
     "eslint-config-strongloop": "^2.1.0",
     "vows": "latest"
   }
